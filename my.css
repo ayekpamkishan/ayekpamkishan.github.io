@@ -64,8 +64,8 @@
 }
     ul.tabs{
       position: absolute;
-      top: 8%;
-      left: 20%;
+      top: -57px;
+      left: 30px;
       list-style: none;
       z-index: 1;
         border-top-color:#99CCFF ;
